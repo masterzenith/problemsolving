@@ -1,0 +1,6 @@
+slidingwindows/AverageOfSubarrayOfSizeK.java
+ slidingwindows.AverageOfSubarrayOfSizeK
+slidingwindows/MaxSumSubArrayOfSizeK.java
+ slidingwindows.MaxSumSubArrayOfSizeK
+slidingwindows/AverageOfSubarrayOfSizeK1.java
+ slidingwindows.AverageOfSubarrayOfSizeK1
