@@ -1,6 +1,28 @@
 slidingwindows/AverageOfSubarrayOfSizeK.java
  slidingwindows.AverageOfSubarrayOfSizeK
-slidingwindows/MaxSumSubArrayOfSizeK.java
- slidingwindows.MaxSumSubArrayOfSizeK
 slidingwindows/AverageOfSubarrayOfSizeK1.java
  slidingwindows.AverageOfSubarrayOfSizeK1
+slidingwindows/MaxSumSubArrayOfSizeKOptimum.java
+ slidingwindows.MaxSumSubArrayOfSizeKOptimum
+slidingwindows/MaxSumSubArrayOfSizeK.java
+ slidingwindows.MaxSumSubArrayOfSizeK
+slidingwindows/MinSizeSubArraySum.java
+ slidingwindows.MinSizeSubArraySum
+slidingwindows/LongestSubstringKDistinct.java
+ slidingwindows.LongestSubstringKDistinct
+slidingwindows/MaxFruitCountOf2Types.java
+ slidingwindows.MaxFruitCountOf2Types
+slidingwindows/NoRepeatSubstring.java
+ slidingwindows.NoRepeatSubstring
+slidingwindows/CharacterReplacement.java
+ slidingwindows.CharacterReplacement
+slidingwindows/ReplacingOnes.java
+ slidingwindows.ReplacingOnes
+slidingwindows/StringPermutation.java
+ slidingwindows.StringPermutation
+slidingwindows/StringAnagrams.java
+ slidingwindows.StringAnagrams
+slidingwindows/WordConcatenation.java
+ slidingwindows.WordConcatenation
+slidingwindows/MinimumWindowSubstring.java
+ slidingwindows.MinimumWindowSubstring
