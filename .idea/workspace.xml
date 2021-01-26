@@ -5,13 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ff9e7b8d-b66a-408b-a4b6-d47c88354ece" name="Default Changelist" comment="adding init commit">
-      <change afterPath="$PROJECT_DIR$/src/main/java/twopointers/BackspaceCompare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/twopointers/DutchFlag.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/twopointers/QuadrupleSumToTarget.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/twopointers/ShortestWindowSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/twopointers/SubarrayProductLessThanK.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/twopointers/TripletListWithSmallerSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/twopointers/TripletWithSmallerSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fastslowpointers/CircularArrayLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fastslowpointers/HappyNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fastslowpointers/LinkedListCycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fastslowpointers/LinkedListCycleLength.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fastslowpointers/LinkedListCycleStart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fastslowpointers/MiddleOfLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fastslowpointers/PalindromicLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fastslowpointers/RearrangeList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.7/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.7/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.7/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.7/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.7/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.7/fileHashes/fileHashes.bin" afterDir="false" />
@@ -20,7 +21,6 @@
       <change beforePath="$PROJECT_DIR$/.gradle/6.7/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.7/javaCompile/javaCompile.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/twopointers/TripletSumCloseToTarget.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/twopointers/TripletSumCloseToTarget.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/source-classes-mapping.txt" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/compileJava/source-classes-mapping.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -91,13 +91,13 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager" selected="Application.ShortestWindowSort">
-    <configuration name="BackspaceCompare" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="twopointers.BackspaceCompare" />
+  <component name="RunManager" selected="Application.CircularArrayLoop">
+    <configuration name="CircularArrayLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fastslowpointers.CircularArrayLoop" />
       <module name="problemsolving.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="twopointers.*" />
+          <option name="PATTERN" value="fastslowpointers.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,12 +105,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DutchFlag" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="twopointers.DutchFlag" />
+    <configuration name="HappyNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fastslowpointers.HappyNumber" />
       <module name="problemsolving.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="twopointers.*" />
+          <option name="PATTERN" value="fastslowpointers.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,12 +118,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="QuadrupleSumToTarget" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="twopointers.QuadrupleSumToTarget" />
+    <configuration name="LinkedListCycleStart" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fastslowpointers.LinkedListCycleStart" />
       <module name="problemsolving.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="twopointers.*" />
+          <option name="PATTERN" value="fastslowpointers.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,12 +131,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ShortestWindowSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="twopointers.ShortestWindowSort" />
+    <configuration name="PalindromicLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fastslowpointers.PalindromicLinkedList" />
       <module name="problemsolving.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="twopointers.*" />
+          <option name="PATTERN" value="fastslowpointers.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -144,12 +144,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SubarrayProductLessThanK" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="twopointers.SubarrayProductLessThanK" />
+    <configuration name="RearrangeList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fastslowpointers.RearrangeList" />
       <module name="problemsolving.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="twopointers.*" />
+          <option name="PATTERN" value="fastslowpointers.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -159,11 +159,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ShortestWindowSort" />
-        <item itemvalue="Application.BackspaceCompare" />
-        <item itemvalue="Application.QuadrupleSumToTarget" />
-        <item itemvalue="Application.DutchFlag" />
-        <item itemvalue="Application.SubarrayProductLessThanK" />
+        <item itemvalue="Application.CircularArrayLoop" />
+        <item itemvalue="Application.RearrangeList" />
+        <item itemvalue="Application.PalindromicLinkedList" />
+        <item itemvalue="Application.HappyNumber" />
+        <item itemvalue="Application.LinkedListCycleStart" />
       </list>
     </recent_temporary>
   </component>
