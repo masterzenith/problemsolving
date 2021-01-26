@@ -36,7 +36,21 @@ slidingwindows/MaxFruitCountOf2Types.java
  slidingwindows.MaxFruitCountOf2Types
 twopointers/SortedArraySquares.java
  twopointers.SortedArraySquares
-twopointers/TripletSumCloseToTarget.java
- twopointers.TripletSumCloseToTarget
 twopointers/TripletSumToZero.java
  twopointers.TripletSumToZero
+twopointers/TripletSumCloseToTarget.java
+ twopointers.TripletSumCloseToTarget
+twopointers/TripletWithSmallerSum.java
+ twopointers.TripletWithSmallerSum
+twopointers/TripletListWithSmallerSum.java
+ twopointers.TripletListWithSmallerSum
+twopointers/SubarrayProductLessThanK.java
+ twopointers.SubarrayProductLessThanK
+twopointers/DutchFlag.java
+ twopointers.DutchFlag
+twopointers/QuadrupleSumToTarget.java
+ twopointers.QuadrupleSumToTarget
+twopointers/BackspaceCompare.java
+ twopointers.BackspaceCompare
+twopointers/ShortestWindowSort.java
+ twopointers.ShortestWindowSort
