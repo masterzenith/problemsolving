@@ -1,28 +1,42 @@
-slidingwindows/AverageOfSubarrayOfSizeK.java
- slidingwindows.AverageOfSubarrayOfSizeK
-slidingwindows/AverageOfSubarrayOfSizeK1.java
- slidingwindows.AverageOfSubarrayOfSizeK1
+slidingwindows/WordConcatenation.java
+ slidingwindows.WordConcatenation
+twopointers/PairWithTargetSum.java
+ twopointers.PairWithTargetSum
+slidingwindows/StringAnagrams.java
+ slidingwindows.StringAnagrams
 slidingwindows/MaxSumSubArrayOfSizeKOptimum.java
  slidingwindows.MaxSumSubArrayOfSizeKOptimum
-slidingwindows/MaxSumSubArrayOfSizeK.java
- slidingwindows.MaxSumSubArrayOfSizeK
-slidingwindows/MinSizeSubArraySum.java
- slidingwindows.MinSizeSubArraySum
-slidingwindows/LongestSubstringKDistinct.java
- slidingwindows.LongestSubstringKDistinct
-slidingwindows/MaxFruitCountOf2Types.java
- slidingwindows.MaxFruitCountOf2Types
-slidingwindows/NoRepeatSubstring.java
- slidingwindows.NoRepeatSubstring
+slidingwindows/StringPermutation.java
+ slidingwindows.StringPermutation
+slidingwindows/MinimumWindowSubstring.java
+ slidingwindows.MinimumWindowSubstring
 slidingwindows/CharacterReplacement.java
  slidingwindows.CharacterReplacement
 slidingwindows/ReplacingOnes.java
  slidingwindows.ReplacingOnes
-slidingwindows/StringPermutation.java
- slidingwindows.StringPermutation
-slidingwindows/StringAnagrams.java
- slidingwindows.StringAnagrams
-slidingwindows/WordConcatenation.java
- slidingwindows.WordConcatenation
-slidingwindows/MinimumWindowSubstring.java
- slidingwindows.MinimumWindowSubstring
+slidingwindows/NoRepeatSubstring.java
+ slidingwindows.NoRepeatSubstring
+slidingwindows/AverageOfSubarrayOfSizeK1.java
+ slidingwindows.AverageOfSubarrayOfSizeK1
+slidingwindows/LongestSubstringKDistinct.java
+ slidingwindows.LongestSubstringKDistinct
+slidingwindows/AverageOfSubarrayOfSizeK.java
+ slidingwindows.AverageOfSubarrayOfSizeK
+slidingwindows/MinSizeSubArraySum.java
+ slidingwindows.MinSizeSubArraySum
+slidingwindows/MaxSumSubArrayOfSizeK.java
+ slidingwindows.MaxSumSubArrayOfSizeK
+twopointers/PairWithTargetSumHashTable.java
+ twopointers.PairWithTargetSumHashTable
+twopointers/RemoveDuplicates.java
+ twopointers.RemoveDuplicates
+twopointers/RemoveElement.java
+ twopointers.RemoveElement
+slidingwindows/MaxFruitCountOf2Types.java
+ slidingwindows.MaxFruitCountOf2Types
+twopointers/SortedArraySquares.java
+ twopointers.SortedArraySquares
+twopointers/TripletSumCloseToTarget.java
+ twopointers.TripletSumCloseToTarget
+twopointers/TripletSumToZero.java
+ twopointers.TripletSumToZero
