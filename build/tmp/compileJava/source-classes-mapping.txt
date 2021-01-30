@@ -71,3 +71,55 @@ fastslowpointers/RearrangeList.java
  fastslowpointers.RearrangeList
 fastslowpointers/CircularArrayLoop.java
  fastslowpointers.CircularArrayLoop
+mergeintervals/InsertInterval.java
+ mergeintervals.InsertInterval
+mergeintervals/MergeIntervals.java
+ mergeintervals.Interval
+ mergeintervals.MergeIntervals
+mergeintervals/IntervalsIntersection.java
+ mergeintervals.IntervalsIntersection
+mergeintervals/ConflictingAppointments.java
+ mergeintervals.ConflictingAppointments
+mergeintervals/MinimumMeetingRooms.java
+ mergeintervals.Meeting
+ mergeintervals.MinimumMeetingRooms
+ mergeintervals.MinimumMeetingRooms$1
+ mergeintervals.MinimumMeetingRooms$2
+ mergeintervals.MinimumMeetingRooms$3
+ mergeintervals.MinimumMeetingRooms$4
+ mergeintervals.MinimumMeetingRooms$5
+mergeintervals/MaximumCPULoad.java
+ mergeintervals.Job
+ mergeintervals.MaximumCPULoad
+mergeintervals/EmployeeFreeTime.java
+ mergeintervals.EmployeeFreeTime
+ mergeintervals.EmployeeInterval
+cyclesort/CyclicSort.java
+ cyclesort.CyclicSort
+cyclesort/MissingNumber.java
+ cyclesort.MissingNumber
+cyclesort/AllMissingNumbers.java
+ cyclesort.AllMissingNumbers
+cyclesort/FindDuplicate.java
+ cyclesort.FindDuplicate
+cyclesort/DuplicateNumberWithoutModifyInputArray.java
+ cyclesort.DuplicateNumberWithoutModifyInputArray
+cyclesort/FindAllDuplicate.java
+ cyclesort.FindAllDuplicate
+cyclesort/FindCorruptNums.java
+ cyclesort.FindCorruptNums
+cyclesort/FirstSmallestMissingPositive.java
+ cyclesort.FirstSmallestMissingPositive
+cyclesort/FirstKMissingPositive.java
+ cyclesort.FirstKMissingPositive
+inplacereversaloflinkedlist/ReverseLinkedList.java
+ inplacereversaloflinkedlist.ListNode
+ inplacereversaloflinkedlist.ReverseLinkedList
+inplacereversaloflinkedlist/ReverseSubList.java
+ inplacereversaloflinkedlist.ReverseSubList
+inplacereversaloflinkedlist/ReverseEveryKElements.java
+ inplacereversaloflinkedlist.ReverseEveryKElements
+inplacereversaloflinkedlist/RotateList.java
+ inplacereversaloflinkedlist.RotateList
+inplacereversaloflinkedlist/ReverseAlternatingKElements.java
+ inplacereversaloflinkedlist.ReverseAlternatingKElements

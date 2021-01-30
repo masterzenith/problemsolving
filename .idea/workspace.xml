@@ -5,14 +5,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ff9e7b8d-b66a-408b-a4b6-d47c88354ece" name="Default Changelist" comment="adding init commit">
-      <change afterPath="$PROJECT_DIR$/src/main/java/fastslowpointers/CircularArrayLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/fastslowpointers/HappyNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/fastslowpointers/LinkedListCycle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/fastslowpointers/LinkedListCycleLength.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/fastslowpointers/LinkedListCycleStart.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/fastslowpointers/MiddleOfLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/fastslowpointers/PalindromicLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/fastslowpointers/RearrangeList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cyclesort/AllMissingNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cyclesort/CyclicSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cyclesort/DuplicateNumberWithoutModifyInputArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cyclesort/FindAllDuplicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cyclesort/FindCorruptNums.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cyclesort/FindDuplicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cyclesort/FirstKMissingPositive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cyclesort/FirstSmallestMissingPositive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cyclesort/MissingNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/inplacereversaloflinkedlist/ReverseAlternatingKElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/inplacereversaloflinkedlist/ReverseEveryKElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/inplacereversaloflinkedlist/ReverseLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/inplacereversaloflinkedlist/ReverseSubList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/inplacereversaloflinkedlist/RotateList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mergeintervals/ConflictingAppointments.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mergeintervals/EmployeeFreeTime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mergeintervals/InsertInterval.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mergeintervals/IntervalsIntersection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mergeintervals/MaximumCPULoad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mergeintervals/MergeIntervals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mergeintervals/MinimumMeetingRooms.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.7/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.7/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.7/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.7/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.7/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.7/fileHashes/fileHashes.bin" afterDir="false" />
@@ -20,6 +33,9 @@
       <change beforePath="$PROJECT_DIR$/.gradle/6.7/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.7/javaCompile/classAnalysis.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.7/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.7/javaCompile/javaCompile.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/md5-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/md5-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/source-classes-mapping.txt" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/compileJava/source-classes-mapping.txt" afterDir="false" />
     </list>
@@ -76,6 +92,9 @@
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$USER_HOME$/.jdks/openjdk-15.0.2/lib/src.zip!/java.base/java/util/PriorityQueue.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="ProjectId" id="1nBXN0abDhyvZUiJ25hlFlm7mcX" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -91,13 +110,16 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager" selected="Application.CircularArrayLoop">
-    <configuration name="CircularArrayLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fastslowpointers.CircularArrayLoop" />
+  <component name="ReaderModeSettings">
+    <option name="enabled" value="false" />
+  </component>
+  <component name="RunManager" selected="Application.RotateList">
+    <configuration name="ReverseAlternatingKElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="inplacereversaloflinkedlist.ReverseAlternatingKElements" />
       <module name="problemsolving.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="fastslowpointers.*" />
+          <option name="PATTERN" value="inplacereversaloflinkedlist.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,12 +127,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HappyNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fastslowpointers.HappyNumber" />
+    <configuration name="ReverseEveryKElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="inplacereversaloflinkedlist.ReverseEveryKElements" />
       <module name="problemsolving.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="fastslowpointers.*" />
+          <option name="PATTERN" value="inplacereversaloflinkedlist.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,12 +140,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LinkedListCycleStart" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fastslowpointers.LinkedListCycleStart" />
+    <configuration name="ReverseLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="inplacereversaloflinkedlist.ReverseLinkedList" />
       <module name="problemsolving.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="fastslowpointers.*" />
+          <option name="PATTERN" value="inplacereversaloflinkedlist.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,12 +153,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PalindromicLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fastslowpointers.PalindromicLinkedList" />
+    <configuration name="ReverseSubList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="inplacereversaloflinkedlist.ReverseSubList" />
       <module name="problemsolving.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="fastslowpointers.*" />
+          <option name="PATTERN" value="inplacereversaloflinkedlist.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -144,12 +166,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RearrangeList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fastslowpointers.RearrangeList" />
+    <configuration name="RotateList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="inplacereversaloflinkedlist.RotateList" />
       <module name="problemsolving.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="fastslowpointers.*" />
+          <option name="PATTERN" value="inplacereversaloflinkedlist.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -159,11 +181,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CircularArrayLoop" />
-        <item itemvalue="Application.RearrangeList" />
-        <item itemvalue="Application.PalindromicLinkedList" />
-        <item itemvalue="Application.HappyNumber" />
-        <item itemvalue="Application.LinkedListCycleStart" />
+        <item itemvalue="Application.RotateList" />
+        <item itemvalue="Application.ReverseAlternatingKElements" />
+        <item itemvalue="Application.ReverseEveryKElements" />
+        <item itemvalue="Application.ReverseSubList" />
+        <item itemvalue="Application.ReverseLinkedList" />
       </list>
     </recent_temporary>
   </component>
