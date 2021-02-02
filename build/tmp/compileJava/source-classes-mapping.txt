@@ -119,7 +119,237 @@ inplacereversaloflinkedlist/ReverseSubList.java
  inplacereversaloflinkedlist.ReverseSubList
 inplacereversaloflinkedlist/ReverseEveryKElements.java
  inplacereversaloflinkedlist.ReverseEveryKElements
-inplacereversaloflinkedlist/RotateList.java
- inplacereversaloflinkedlist.RotateList
 inplacereversaloflinkedlist/ReverseAlternatingKElements.java
  inplacereversaloflinkedlist.ReverseAlternatingKElements
+inplacereversaloflinkedlist/RotateList.java
+ inplacereversaloflinkedlist.RotateList
+bfs/ConnectAllSiblings.java
+ bfs.ConnectAllSiblings
+bfs/LevelOrderSuccessor.java
+ bfs.LevelOrderSuccessor
+bfs/MaximumBinaryTreeDepth.java
+ bfs.MaximumBinaryTreeDepth
+bfs/MinimumBinaryTreeDepth.java
+ bfs.MinimumBinaryTreeDepth
+bfs/LevelAverage.java
+ bfs.LevelAverage
+bfs/ZigzagTraversal.java
+ bfs.ZigzagTraversal
+bfs/ConnectLevelOrderSiblings.java
+ bfs.ConnectLevelOrderSiblings
+bfs/LevelOrderTraversal.java
+ bfs.LevelOrderTraversal
+ bfs.TreeNode
+bfs/ReverseLevelOrderTraversal.java
+ bfs.ReverseLevelOrderTraversal
+bfs/RightViewTree.java
+ bfs.RightViewTree
+dfs/TreePathSum.java
+ dfs.TreeNode
+ dfs.TreePathSum
+dfs/FindAllTreePaths.java
+ dfs.FindAllTreePaths
+dfs/SumOfPathNumbers.java
+ dfs.SumOfPathNumbers
+dfs/PathWithGivenSequence.java
+ dfs.PathWithGivenSequence
+dfs/CountAllPathSum.java
+ dfs.CountAllPathSum
+dfs/TreeDiameter.java
+ dfs.TreeDiameter
+dfs/MaximumPathSum.java
+ dfs.MaximumPathSum
+twoheaps/MedianOfAStream.java
+ twoheaps.MedianOfAStream
+twoheaps/MaximizeCapital.java
+ twoheaps.MaximizeCapital
+twoheaps/SlidingWindowMedian.java
+ twoheaps.SlidingWindowMedian
+twoheaps/NextInterval.java
+ twoheaps.Interval
+ twoheaps.NextInterval
+subsets/Subsets.java
+ subsets.Subsets
+subsets/SubsetWithDuplicates.java
+ subsets.SubsetWithDuplicates
+subsets/Permutations.java
+ subsets.Permutations
+subsets/PermutationsRecursive.java
+ subsets.PermutationsRecursive
+subsets/LetterCaseStringPermutation.java
+ subsets.LetterCaseStringPermutation
+subsets/GenerateParentheses.java
+ subsets.GenerateParentheses
+ subsets.ParenthesesString
+subsets/GenerateParenthesesRecursive.java
+ subsets.GenerateParenthesesRecursive
+subsets/GeneralizedAbbreviationRecursive.java
+ subsets.GeneralizedAbbreviationRecursive
+subsets/GeneralizedAbbreviation.java
+ subsets.AbbreviatedWord
+ subsets.GeneralizedAbbreviation
+subsets/EvaluateExpressionMemoization.java
+ subsets.EvaluateExpressionMemoization
+subsets/EvaluateExpression.java
+ subsets.EvaluateExpression
+subsets/UniqueTrees.java
+ subsets.TreeNode
+ subsets.UniqueTrees
+subsets/CountUniqueTrees.java
+ subsets.CountUniqueTrees
+subsets/CountUniqueTreesMemoization.java
+ subsets.CountUniqueTreesMemoization
+modifiedbinarysearch/BinarySearch.java
+ modifiedbinarysearch.BinarySearch
+modifiedbinarysearch/CeilingOfANumber.java
+ modifiedbinarysearch.CeilingOfANumber
+modifiedbinarysearch/FloorOfANumber.java
+ modifiedbinarysearch.FloorOfANumber
+modifiedbinarysearch/NextLetter.java
+ modifiedbinarysearch.NextLetter
+modifiedbinarysearch/FindRange.java
+ modifiedbinarysearch.FindRange
+modifiedbinarysearch/SearchInfiniteSortedArray.java
+ modifiedbinarysearch.ArrayReader
+ modifiedbinarysearch.SearchInfiniteSortedArray
+modifiedbinarysearch/MaxInBitonicArray.java
+ modifiedbinarysearch.MaxInBitonicArray
+modifiedbinarysearch/MinimumDifference.java
+ modifiedbinarysearch.MinimumDifference
+modifiedbinarysearch/SearchBitonicArray.java
+ modifiedbinarysearch.SearchBitonicArray
+modifiedbinarysearch/SearchRotatedArray.java
+ modifiedbinarysearch.SearchRotatedArray
+modifiedbinarysearch/RotationCountOfRotatedArray.java
+ modifiedbinarysearch.RotationCountOfRotatedArray
+modifiedbinarysearch/RotationCountWithDuplicates.java
+ modifiedbinarysearch.RotationCountWithDuplicates
+modifiedbinarysearch/SearchRotatedWithDuplicate.java
+ modifiedbinarysearch.SearchRotatedWithDuplicate
+bitwisexor/MissingNumber.java
+ bitwisexor.MissingNumber
+bitwisexor/MissingNumberXOR.java
+ bitwisexor.MissingNumberXOR
+bitwisexor/SingleNumber.java
+ bitwisexor.SingleNumber
+bitwisexor/TwoSingleNumbers.java
+ bitwisexor.TwoSingleNumbers
+bitwisexor/CalculateComplement.java
+ bitwisexor.CalculateComplement
+bitwisexor/Solution.java
+ bitwisexor.Solution
+topkelements/KLargestNumbers.java
+ topkelements.KLargestNumbers
+topkelements/KthSmallestNumber.java
+ topkelements.KthSmallestNumber
+topkelements/KClosestPointsToOrigin.java
+ topkelements.KClosestPointsToOrigin
+ topkelements.Point
+topkelements/ConnectRopes.java
+ topkelements.ConnectRopes
+topkelements/TopKFrequentNumbers.java
+ topkelements.TopKFrequentNumbers
+topkelements/FrequencySort.java
+ topkelements.FrequencySort
+topkelements/KthLargestNumberInStream.java
+ topkelements.KthLargestNumberInStream
+topkelements/KClosestElements.java
+ topkelements.Entry
+ topkelements.KClosestElements
+topkelements/KClosestElementsTwoPointers.java
+ topkelements.KClosestElementsTwoPointers
+topkelements/MaximumDistinctElements.java
+ topkelements.MaximumDistinctElements
+topkelements/SumOfElements.java
+ topkelements.SumOfElements
+topkelements/SumOfElementsMaxHeap.java
+ topkelements.SumOfElementsMaxHeap
+topkelements/RearrangeString.java
+ topkelements.RearrangeString
+topkelements/RearrangeStringKDistanceApart.java
+ topkelements.RearrangeStringKDistanceApart
+topkelements/TaskScheduler.java
+ topkelements.TaskScheduler
+topkelements/FrequencyStack.java
+ topkelements.Element
+ topkelements.ElementComparator
+ topkelements.FrequencyStack
+kwaymerge/MergeKSortedLists.java
+ kwaymerge.ListNode
+ kwaymerge.MergeKSortedLists
+kwaymerge/KthSmallestInMSortedArrays.java
+ kwaymerge.KthSmallestInMSortedArrays
+ kwaymerge.Node
+kwaymerge/KthSmallestInSortedMatrix.java
+ kwaymerge.KthSmallestInSortedMatrix
+ kwaymerge.Node1
+kwaymerge/KthSmallestInSortedMatrixBST.java
+ kwaymerge.KthSmallestInSortedMatrixBST
+kwaymerge/SmallestRange.java
+ kwaymerge.SmallestRange
+kwaymerge/LargestPairs.java
+ kwaymerge.LargestPairs
+knapsackdp/KnapsackBruteForce.java
+ knapsackdp.KnapsackBruteForce
+knapsackdp/KnapsackMemoization.java
+ knapsackdp.KnapsackMemoization
+knapsackdp/KnapsackSelectedWeights.java
+ knapsackdp.KnapsackSelectedWeights
+knapsackdp/KnapsackButtomUp.java
+ knapsackdp.KnapsackButtomUp
+knapsackdp/KnapsackBottomUpDPOptimum.java
+ knapsackdp.KnapsackBottomUpDPOptimum
+knapsackdp/PartitionSetBruteForce.java
+ knapsackdp.PartitionSetBruteForce
+knapsackdp/PartitionSetBottomUpDp.java
+ knapsackdp.PartitionSetBottomUpDp
+knapsackdp/PartitionSetTopDownMemoization.java
+ knapsackdp.PartitionSetTopDownMemoization
+knapsackdp/SubsetSumBottomUpDp.java
+ knapsackdp.SubsetSumBottomUpDp
+knapsackdp/SubsetSumBottomUpDpOptimum.java
+ knapsackdp.SubsetSumBottomUpDpOptimum
+knapsackdp/PartitionSetBruteForceProblemSolving.java
+ knapsackdp.PartitionSetBruteForceProblemSolving
+knapsackdp/PartitionSetTopDownDpMemoizationProblemSolving.java
+ knapsackdp.PartitionSetTopDownDpMemoizationProblemSolving
+knapsackdp/PartitionSetBottomUpDpProblemSolving.java
+ knapsackdp.PartitionSetBottomUpDpProblemSolving
+knapsackdp/SubsetSumBruteForceProblemSolving.java
+ knapsackdp.SubsetSumBruteForceProblemSolving
+knapsackdp/SubsetSumTopDownDpMemoizationProblemSolving.java
+ knapsackdp.SubsetSumTopDownDpMemoizationProblemSolving
+knapsackdp/SubsetSumBottomUpDpImproved.java
+ knapsackdp.SubsetSumBottomUpDpImproved
+knapsackdp/SubsetSumBottomUpDpProblemSolving.java
+ knapsackdp.SubsetSumBottomUpDpProblemSolving
+knapsackdp/TargetSumSpaceOptimize.java
+ knapsackdp.TargetSumSpaceOptimize
+knapsackdp/TargetSum.java
+ knapsackdp.TargetSum
+topologicalsort/TopologicalSort.java
+ topologicalsort.TopologicalSort
+topologicalsort/TaskScheduling.java
+ topologicalsort.TaskScheduling
+topologicalsort/TaskSchedulingOrder.java
+ topologicalsort.TaskSchedulingOrder
+topologicalsort/AllTaskSchedulingOrders.java
+ topologicalsort.AllTaskSchedulingOrders
+topologicalsort/AlienDictionary.java
+ topologicalsort.AlienDictionary
+topologicalsort/SequenceReconstruction.java
+ topologicalsort.SequenceReconstruction
+topologicalsort/MinimumHeightTrees.java
+ topologicalsort.MinimumHeightTrees
+importantSorting/KthSmallestNumberBruteForce.java
+ importantSorting.KthSmallestNumberBruteForce
+importantSorting/KthSmallestNumberBruteForceHeapSort.java
+ importantSorting.KthSmallestNumberBruteForceHeapSort
+importantSorting/KthSmallestNumberMaxHeap.java
+ importantSorting.KthSmallestNumberMaxHeap
+importantSorting/KthSmallestNumberPartitionQuicksort.java
+ importantSorting.KthSmallestNumberPartitionQuicksort
+importantSorting/KthSmallestNumberRandomizeQuickSort.java
+ importantSorting.KthSmallestNumberRandomizeQuickSort
+importantSorting/KthSmallestNumberMedians.java
+ importantSorting.KthSmallestNumberMedians

@@ -5,27 +5,115 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ff9e7b8d-b66a-408b-a4b6-d47c88354ece" name="Default Changelist" comment="adding init commit">
-      <change afterPath="$PROJECT_DIR$/src/main/java/cyclesort/AllMissingNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cyclesort/CyclicSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cyclesort/DuplicateNumberWithoutModifyInputArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cyclesort/FindAllDuplicate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cyclesort/FindCorruptNums.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cyclesort/FindDuplicate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cyclesort/FirstKMissingPositive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cyclesort/FirstSmallestMissingPositive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cyclesort/MissingNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/inplacereversaloflinkedlist/ReverseAlternatingKElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/inplacereversaloflinkedlist/ReverseEveryKElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/inplacereversaloflinkedlist/ReverseLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/inplacereversaloflinkedlist/ReverseSubList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/inplacereversaloflinkedlist/RotateList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/mergeintervals/ConflictingAppointments.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/mergeintervals/EmployeeFreeTime.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/mergeintervals/InsertInterval.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/mergeintervals/IntervalsIntersection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/mergeintervals/MaximumCPULoad.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/mergeintervals/MergeIntervals.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/mergeintervals/MinimumMeetingRooms.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bfs/ConnectAllSiblings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bfs/ConnectLevelOrderSiblings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bfs/LevelAverage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bfs/LevelOrderSuccessor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bfs/LevelOrderTraversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bfs/MaximumBinaryTreeDepth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bfs/MinimumBinaryTreeDepth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bfs/ReverseLevelOrderTraversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bfs/RightViewTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bfs/ZigzagTraversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bitwisexor/CalculateComplement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bitwisexor/MissingNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bitwisexor/MissingNumberXOR.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bitwisexor/SingleNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bitwisexor/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bitwisexor/TwoSingleNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dfs/CountAllPathSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dfs/FindAllTreePaths.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dfs/MaximumPathSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dfs/PathWithGivenSequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dfs/SumOfPathNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dfs/TreeDiameter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dfs/TreePathSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/importantSorting/KthSmallestNumberBruteForce.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/importantSorting/KthSmallestNumberBruteForceHeapSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/importantSorting/KthSmallestNumberMaxHeap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/importantSorting/KthSmallestNumberMedians.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/importantSorting/KthSmallestNumberPartitionQuicksort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/importantSorting/KthSmallestNumberRandomizeQuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/knapsackdp/KnapsackBottomUpDPOptimum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/knapsackdp/KnapsackBruteForce.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/knapsackdp/KnapsackButtomUp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/knapsackdp/KnapsackMemoization.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/knapsackdp/KnapsackSelectedWeights.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/knapsackdp/PartitionSetBottomUpDp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/knapsackdp/PartitionSetBottomUpDpProblemSolving.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/knapsackdp/PartitionSetBruteForce.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/knapsackdp/PartitionSetBruteForceProblemSolving.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/knapsackdp/PartitionSetTopDownDpMemoizationProblemSolving.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/knapsackdp/PartitionSetTopDownMemoization.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/knapsackdp/SubsetSumBottomUpDp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/knapsackdp/SubsetSumBottomUpDpImproved.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/knapsackdp/SubsetSumBottomUpDpOptimum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/knapsackdp/SubsetSumBottomUpDpProblemSolving.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/knapsackdp/SubsetSumBruteForceProblemSolving.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/knapsackdp/SubsetSumTopDownDpMemoizationProblemSolving.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/knapsackdp/TargetSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/knapsackdp/TargetSumSpaceOptimize.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kwaymerge/KthSmallestInMSortedArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kwaymerge/KthSmallestInSortedMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kwaymerge/KthSmallestInSortedMatrixBST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kwaymerge/LargestPairs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kwaymerge/MergeKSortedLists.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kwaymerge/SmallestRange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/modifiedbinarysearch/BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/modifiedbinarysearch/CeilingOfANumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/modifiedbinarysearch/FindRange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/modifiedbinarysearch/FloorOfANumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/modifiedbinarysearch/MaxInBitonicArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/modifiedbinarysearch/MinimumDifference.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/modifiedbinarysearch/NextLetter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/modifiedbinarysearch/RotationCountOfRotatedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/modifiedbinarysearch/RotationCountWithDuplicates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/modifiedbinarysearch/SearchBitonicArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/modifiedbinarysearch/SearchInfiniteSortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/modifiedbinarysearch/SearchRotatedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/modifiedbinarysearch/SearchRotatedWithDuplicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/subsets/CountUniqueTrees.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/subsets/CountUniqueTreesMemoization.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/subsets/EvaluateExpression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/subsets/EvaluateExpressionMemoization.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/subsets/GeneralizedAbbreviation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/subsets/GeneralizedAbbreviationRecursive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/subsets/GenerateParentheses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/subsets/GenerateParenthesesRecursive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/subsets/LetterCaseStringPermutation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/subsets/Permutations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/subsets/PermutationsRecursive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/subsets/SubsetWithDuplicates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/subsets/Subsets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/subsets/UniqueTrees.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/topkelements/ConnectRopes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/topkelements/FrequencySort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/topkelements/FrequencyStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/topkelements/KClosestElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/topkelements/KClosestElementsTwoPointers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/topkelements/KClosestPointsToOrigin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/topkelements/KLargestNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/topkelements/KthLargestNumberInStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/topkelements/KthSmallestNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/topkelements/MaximumDistinctElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/topkelements/RearrangeString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/topkelements/RearrangeStringKDistanceApart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/topkelements/SumOfElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/topkelements/SumOfElementsMaxHeap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/topkelements/TaskScheduler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/topkelements/TopKFrequentNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/topologicalsort/AlienDictionary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/topologicalsort/AllTaskSchedulingOrders.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/topologicalsort/MinimumHeightTrees.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/topologicalsort/SequenceReconstruction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/topologicalsort/TaskScheduling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/topologicalsort/TaskSchedulingOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/topologicalsort/TopologicalSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/twoheaps/MaximizeCapital.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/twoheaps/MedianOfAStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/twoheaps/NextInterval.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/twoheaps/SlidingWindowMedian.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.7/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.7/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.7/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.7/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.7/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.7/fileHashes/fileHashes.bin" afterDir="false" />
@@ -33,9 +121,6 @@
       <change beforePath="$PROJECT_DIR$/.gradle/6.7/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.7/javaCompile/classAnalysis.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.7/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.7/javaCompile/javaCompile.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/checksums/md5-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/md5-checksums.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/source-classes-mapping.txt" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/compileJava/source-classes-mapping.txt" afterDir="false" />
     </list>
@@ -92,6 +177,13 @@
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
   </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/masterzenith/problemsolving" />
+      </set>
+    </option>
+  </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="jar://$USER_HOME$/.jdks/openjdk-15.0.2/lib/src.zip!/java.base/java/util/PriorityQueue.java" root0="FORCE_HIGHLIGHTING" />
   </component>
@@ -106,6 +198,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -113,13 +206,13 @@
   <component name="ReaderModeSettings">
     <option name="enabled" value="false" />
   </component>
-  <component name="RunManager" selected="Application.RotateList">
-    <configuration name="ReverseAlternatingKElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="inplacereversaloflinkedlist.ReverseAlternatingKElements" />
+  <component name="RunManager" selected="Application.KthSmallestNumberMedians">
+    <configuration name="KthSmallestNumberBruteForceHeapSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="importantSorting.KthSmallestNumberBruteForceHeapSort" />
       <module name="problemsolving.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="inplacereversaloflinkedlist.*" />
+          <option name="PATTERN" value="importantSorting.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,12 +220,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseEveryKElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="inplacereversaloflinkedlist.ReverseEveryKElements" />
+    <configuration name="KthSmallestNumberMaxHeap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="importantSorting.KthSmallestNumberMaxHeap" />
       <module name="problemsolving.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="inplacereversaloflinkedlist.*" />
+          <option name="PATTERN" value="importantSorting.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -140,12 +233,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="inplacereversaloflinkedlist.ReverseLinkedList" />
+    <configuration name="KthSmallestNumberMedians" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="importantSorting.KthSmallestNumberMedians" />
       <module name="problemsolving.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="inplacereversaloflinkedlist.*" />
+          <option name="PATTERN" value="importantSorting.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -153,12 +246,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseSubList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="inplacereversaloflinkedlist.ReverseSubList" />
+    <configuration name="KthSmallestNumberPartitionQuicksort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="importantSorting.KthSmallestNumberPartitionQuicksort" />
       <module name="problemsolving.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="inplacereversaloflinkedlist.*" />
+          <option name="PATTERN" value="importantSorting.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -166,12 +259,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RotateList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="inplacereversaloflinkedlist.RotateList" />
+    <configuration name="KthSmallestNumberRandomizeQuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="importantSorting.KthSmallestNumberRandomizeQuickSort" />
       <module name="problemsolving.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="inplacereversaloflinkedlist.*" />
+          <option name="PATTERN" value="importantSorting.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -181,11 +274,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.RotateList" />
-        <item itemvalue="Application.ReverseAlternatingKElements" />
-        <item itemvalue="Application.ReverseEveryKElements" />
-        <item itemvalue="Application.ReverseSubList" />
-        <item itemvalue="Application.ReverseLinkedList" />
+        <item itemvalue="Application.KthSmallestNumberMedians" />
+        <item itemvalue="Application.KthSmallestNumberRandomizeQuickSort" />
+        <item itemvalue="Application.KthSmallestNumberPartitionQuicksort" />
+        <item itemvalue="Application.KthSmallestNumberMaxHeap" />
+        <item itemvalue="Application.KthSmallestNumberBruteForceHeapSort" />
       </list>
     </recent_temporary>
   </component>
