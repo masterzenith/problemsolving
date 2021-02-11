@@ -5,124 +5,165 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ff9e7b8d-b66a-408b-a4b6-d47c88354ece" name="Default Changelist" comment="adding init commit">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/bfs/ConnectAllSiblings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/bfs/ConnectLevelOrderSiblings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/bfs/LevelAverage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/bfs/LevelOrderSuccessor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/bfs/LevelOrderTraversal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/bfs/MaximumBinaryTreeDepth.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/bfs/MinimumBinaryTreeDepth.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/bfs/ReverseLevelOrderTraversal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/bfs/RightViewTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/bfs/ZigzagTraversal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/bitwisexor/CalculateComplement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/bitwisexor/MissingNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/bitwisexor/MissingNumberXOR.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/bitwisexor/SingleNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/bitwisexor/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/bitwisexor/TwoSingleNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dfs/CountAllPathSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dfs/FindAllTreePaths.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dfs/MaximumPathSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dfs/PathWithGivenSequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dfs/SumOfPathNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dfs/TreeDiameter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dfs/TreePathSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/importantSorting/KthSmallestNumberBruteForce.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/importantSorting/KthSmallestNumberBruteForceHeapSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/importantSorting/KthSmallestNumberMaxHeap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/importantSorting/KthSmallestNumberMedians.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/importantSorting/KthSmallestNumberPartitionQuicksort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/importantSorting/KthSmallestNumberRandomizeQuickSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/knapsackdp/KnapsackBottomUpDPOptimum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/knapsackdp/KnapsackBruteForce.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/knapsackdp/KnapsackButtomUp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/knapsackdp/KnapsackMemoization.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/knapsackdp/KnapsackSelectedWeights.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/knapsackdp/PartitionSetBottomUpDp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/knapsackdp/PartitionSetBottomUpDpProblemSolving.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/knapsackdp/PartitionSetBruteForce.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/knapsackdp/PartitionSetBruteForceProblemSolving.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/knapsackdp/PartitionSetTopDownDpMemoizationProblemSolving.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/knapsackdp/PartitionSetTopDownMemoization.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/knapsackdp/SubsetSumBottomUpDp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/knapsackdp/SubsetSumBottomUpDpImproved.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/knapsackdp/SubsetSumBottomUpDpOptimum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/knapsackdp/SubsetSumBottomUpDpProblemSolving.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/knapsackdp/SubsetSumBruteForceProblemSolving.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/knapsackdp/SubsetSumTopDownDpMemoizationProblemSolving.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/knapsackdp/TargetSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/knapsackdp/TargetSumSpaceOptimize.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/kwaymerge/KthSmallestInMSortedArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/kwaymerge/KthSmallestInSortedMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/kwaymerge/KthSmallestInSortedMatrixBST.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/kwaymerge/LargestPairs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/kwaymerge/MergeKSortedLists.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/kwaymerge/SmallestRange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/modifiedbinarysearch/BinarySearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/modifiedbinarysearch/CeilingOfANumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/modifiedbinarysearch/FindRange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/modifiedbinarysearch/FloorOfANumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/modifiedbinarysearch/MaxInBitonicArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/modifiedbinarysearch/MinimumDifference.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/modifiedbinarysearch/NextLetter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/modifiedbinarysearch/RotationCountOfRotatedArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/modifiedbinarysearch/RotationCountWithDuplicates.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/modifiedbinarysearch/SearchBitonicArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/modifiedbinarysearch/SearchInfiniteSortedArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/modifiedbinarysearch/SearchRotatedArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/modifiedbinarysearch/SearchRotatedWithDuplicate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/subsets/CountUniqueTrees.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/subsets/CountUniqueTreesMemoization.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/subsets/EvaluateExpression.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/subsets/EvaluateExpressionMemoization.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/subsets/GeneralizedAbbreviation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/subsets/GeneralizedAbbreviationRecursive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/subsets/GenerateParentheses.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/subsets/GenerateParenthesesRecursive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/subsets/LetterCaseStringPermutation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/subsets/Permutations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/subsets/PermutationsRecursive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/subsets/SubsetWithDuplicates.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/subsets/Subsets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/subsets/UniqueTrees.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/topkelements/ConnectRopes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/topkelements/FrequencySort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/topkelements/FrequencyStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/topkelements/KClosestElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/topkelements/KClosestElementsTwoPointers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/topkelements/KClosestPointsToOrigin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/topkelements/KLargestNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/topkelements/KthLargestNumberInStream.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/topkelements/KthSmallestNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/topkelements/MaximumDistinctElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/topkelements/RearrangeString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/topkelements/RearrangeStringKDistanceApart.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/topkelements/SumOfElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/topkelements/SumOfElementsMaxHeap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/topkelements/TaskScheduler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/topkelements/TopKFrequentNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/topologicalsort/AlienDictionary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/topologicalsort/AllTaskSchedulingOrders.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/topologicalsort/MinimumHeightTrees.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/topologicalsort/SequenceReconstruction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/topologicalsort/TaskScheduling.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/topologicalsort/TaskSchedulingOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/topologicalsort/TopologicalSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/twoheaps/MaximizeCapital.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/twoheaps/MedianOfAStream.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/twoheaps/NextInterval.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/twoheaps/SlidingWindowMedian.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.7/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.7/executionHistory/executionHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.7/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.7/executionHistory/executionHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.7/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.7/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.7/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.7/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.7/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.7/javaCompile/classAnalysis.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.7/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.7/javaCompile/javaCompile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pythonImage/BFS/bfs1.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pythonImage/BFS/bfs10.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pythonImage/BFS/bfs11.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pythonImage/BFS/bfs12.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pythonImage/BFS/bfs2.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pythonImage/BFS/bfs3.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pythonImage/BFS/bfs4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pythonImage/BFS/bfs5.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pythonImage/BFS/bfs6.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pythonImage/BFS/bfs7.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pythonImage/BFS/bfs8.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pythonImage/BFS/bfs9.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pythonImage/BitwiseXOR/bitwisexor1.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pythonImage/BitwiseXOR/bitwisexor2.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pythonImage/BitwiseXOR/bitwisexor3.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pythonImage/BitwiseXOR/bitwisexor4.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pythonImage/BitwiseXOR/bitwisexor5.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pythonImage/BitwiseXOR/bitwisexor6.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pythonImage/DFS/dfs1.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pythonImage/DFS/dfs10.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pythonImage/DFS/dfs2.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pythonImage/DFS/dfs3.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pythonImage/DFS/dfs4.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pythonImage/DFS/dfs5.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pythonImage/DFS/dfs6.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pythonImage/DFS/dfs7.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pythonImage/DFS/dfs8.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pythonImage/DFS/dfs9.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pythonImage/KwayMerge/kwaymerge1.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pythonImage/KwayMerge/kwaymerge2.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pythonImage/KwayMerge/kwaymerge3.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pythonImage/KwayMerge/kwaymerge4.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pythonImage/KwayMerge/kwaymerge5.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pythonImage/KwayMerge/kwaymerge6.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pythonImage/KwayMerge/kwaymerge7.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pythonImage/KwayMerge/kwaymerge8.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pythonImage/ModifiedBS/modifedbs1.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pythonImage/ModifiedBS/modifiedbs10.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pythonImage/ModifiedBS/modifiedbs11.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pythonImage/ModifiedBS/modifiedbs12.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pythonImage/ModifiedBS/modifiedbs13.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pythonImage/ModifiedBS/modifiedbs14.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pythonImage/ModifiedBS/modifiedbs2.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pythonImage/ModifiedBS/modifiedbs3.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pythonImage/ModifiedBS/modifiedbs4.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pythonImage/ModifiedBS/modifiedbs5.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pythonImage/ModifiedBS/modifiedbs6.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pythonImage/ModifiedBS/modifiedbs7.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pythonImage/ModifiedBS/modifiedbs8.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pythonImage/ModifiedBS/modifiedbs9.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pythonImage/Subsets/subsets1.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pythonImage/Subsets/subsets10.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pythonImage/Subsets/subsets11.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pythonImage/Subsets/subsets12.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pythonImage/Subsets/subsets13.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pythonImage/Subsets/subsets2.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pythonImage/Subsets/subsets3.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pythonImage/Subsets/subsets4.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pythonImage/Subsets/subsets5.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pythonImage/Subsets/subsets6.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pythonImage/Subsets/subsets7.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pythonImage/Subsets/subsets8.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pythonImage/Subsets/subsets9.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pythonImage/TopKElements/topKelements1.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pythonImage/TopKElements/topKelements10.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pythonImage/TopKElements/topKelements11.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pythonImage/TopKElements/topKelements12.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pythonImage/TopKElements/topKelements13.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pythonImage/TopKElements/topKelements14.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pythonImage/TopKElements/topKelements15.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pythonImage/TopKElements/topKelements16.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pythonImage/TopKElements/topKelements17.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pythonImage/TopKElements/topKelements18.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pythonImage/TopKElements/topKelements2.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pythonImage/TopKElements/topKelements3.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pythonImage/TopKElements/topKelements4.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pythonImage/TopKElements/topKelements5.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pythonImage/TopKElements/topKelements6.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pythonImage/TopKElements/topKelements7.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pythonImage/TopKElements/topKelements8.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pythonImage/TopKElements/topKelements9.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pythonImage/ToplogicalSort/toplogicalSort1.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pythonImage/ToplogicalSort/toplogicalSort10.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pythonImage/ToplogicalSort/toplogicalSort11.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pythonImage/ToplogicalSort/toplogicalSort2.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pythonImage/ToplogicalSort/toplogicalSort3.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pythonImage/ToplogicalSort/toplogicalSort4.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pythonImage/ToplogicalSort/toplogicalSort5.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pythonImage/ToplogicalSort/toplogicalSort6.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pythonImage/ToplogicalSort/toplogicalSort7.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pythonImage/ToplogicalSort/toplogicalSort8.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pythonImage/ToplogicalSort/toplogicalSort9.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pythonImage/cyclicSort/cyclicSort1.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pythonImage/cyclicSort/cyclicSort10.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pythonImage/cyclicSort/cyclicSort11.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pythonImage/cyclicSort/cyclicSort12.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pythonImage/cyclicSort/cyclicSort2.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pythonImage/cyclicSort/cyclicSort3.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pythonImage/cyclicSort/cyclicSort4.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pythonImage/cyclicSort/cyclicSort5.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pythonImage/cyclicSort/cyclicSort6.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pythonImage/cyclicSort/cyclicSort7.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pythonImage/cyclicSort/cyclicSort8.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pythonImage/cyclicSort/cyclicSort9.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pythonImage/fast&amp;slowPointers/fast&amp;slowPointers1.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pythonImage/fast&amp;slowPointers/fast&amp;slowPointers10.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pythonImage/fast&amp;slowPointers/fast&amp;slowPointers11.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pythonImage/fast&amp;slowPointers/fast&amp;slowPointers2.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pythonImage/fast&amp;slowPointers/fast&amp;slowPointers3.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pythonImage/fast&amp;slowPointers/fast&amp;slowPointers4.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pythonImage/fast&amp;slowPointers/fast&amp;slowPointers5.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pythonImage/fast&amp;slowPointers/fast&amp;slowPointers6.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pythonImage/fast&amp;slowPointers/fast&amp;slowPointers7.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pythonImage/fast&amp;slowPointers/fast&amp;slowPointers8.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pythonImage/fast&amp;slowPointers/fast&amp;slowPointers9.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pythonImage/inplaceReversalLinkedList/inplaceReversalLinkedlist.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pythonImage/inplaceReversalLinkedList/inplaceReversalLinkedlist2.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pythonImage/inplaceReversalLinkedList/inplaceReversalLinkedlist3.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pythonImage/inplaceReversalLinkedList/inplaceReversalLinkedlist4.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pythonImage/inplaceReversalLinkedList/inplaceReversalLinkedlist5.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pythonImage/inplaceReversalLinkedList/inplaceReversalLinkedlist6.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pythonImage/inplaceReversalLinkedList/inplaceReversalLinkedlist7.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pythonImage/inplaceReversalLinkedList/inplaceReversalLinkedlist8.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pythonImage/knapsackDP/knapsackdp1.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pythonImage/knapsackDP/knapsackdp2.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pythonImage/knapsackDP/knapsackdp3.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pythonImage/knapsackDP/knapsackdp4.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pythonImage/knapsackDP/knapsackdp5.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pythonImage/knapsackDP/knapsackdp6.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pythonImage/knapsackDP/knapsackdp7.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pythonImage/knapsackDP/knapsackdp8.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pythonImage/mergeIntervals/mergeIntervals1.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pythonImage/mergeIntervals/mergeIntervals10.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pythonImage/mergeIntervals/mergeIntervals11.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pythonImage/mergeIntervals/mergeIntervals2.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pythonImage/mergeIntervals/mergeIntervals3.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pythonImage/mergeIntervals/mergeIntervals4.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pythonImage/mergeIntervals/mergeIntervals5.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pythonImage/mergeIntervals/mergeIntervals6.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pythonImage/mergeIntervals/mergeIntervals7.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pythonImage/mergeIntervals/mergeIntervals8.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pythonImage/mergeIntervals/mergeIntervals9.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pythonImage/slidingWindow/slidingWindow1.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pythonImage/slidingWindow/slidingWindow10.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pythonImage/slidingWindow/slidingWindow11.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pythonImage/slidingWindow/slidingWindow12.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pythonImage/slidingWindow/slidingWindow13.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pythonImage/slidingWindow/slidingWindow14.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pythonImage/slidingWindow/slidingWindow15.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pythonImage/slidingWindow/slidingWindow2.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pythonImage/slidingWindow/slidingWindow3.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pythonImage/slidingWindow/slidingWindow4.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pythonImage/slidingWindow/slidingWindow5.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pythonImage/slidingWindow/slidingWindow6.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pythonImage/slidingWindow/slidingWindow7.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pythonImage/slidingWindow/slidingWindow8.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pythonImage/slidingWindow/slidingWindowIntro.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pythonImage/slidingWindow/slidingwindow9.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/source-classes-mapping.txt" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/compileJava/source-classes-mapping.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -199,12 +240,18 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/pythonImage" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="ReaderModeSettings">
     <option name="enabled" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/pythonImage" />
+    </key>
   </component>
   <component name="RunManager" selected="Application.KthSmallestNumberMedians">
     <configuration name="KthSmallestNumberBruteForceHeapSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
